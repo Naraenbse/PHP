@@ -2,8 +2,9 @@
 <html>
 <body>
     <?php
-        $name = "MANJIRO SANA";
-        $Age = 20;
+        $name = "MANJIRO SANA"; //it is a  string
+
+        $Age = 20; //it is a integer
 
         echo $name;
         echo "<br>";

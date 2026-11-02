@@ -52,3 +52,5 @@
         $YAMAHA -> get_details();
 
         ?>
+    </body>
+</html> 

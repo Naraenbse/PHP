@@ -30,4 +30,3 @@ echo "<br>";
 $text="i love virat kohli";
 var_dump(str_contains($text,"love"));
 ?>
-

@@ -1,5 +1,4 @@
-<html>
-    <body>
+
         <?php
         //boolean data type
         $is_notmarried=true;
@@ -52,5 +51,4 @@
         $YAMAHA -> get_details();
 
         ?>
-        </body>
-    </html>
+    

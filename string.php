@@ -1,5 +1,4 @@
-<html>
-    <body>
+
         <?php
         echo strlen("hello BSE TECH");
         // it will count the number of charc in this string
@@ -31,7 +30,4 @@ echo "<br>";
 $text="i love virat kohli";
 var_dump(str_contains($text,"love"));
 ?>
-</body>
-</html>
-
 

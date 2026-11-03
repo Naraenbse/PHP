@@ -51,4 +51,19 @@ $a =5;
 
 $b = $a < 10 ?"good morning" : "good night";
 echo $b;
+echo "<br>";
+
+//NESTED IF
+
+$number = 20;
+if ($number > 10) {
+    echo "the number is greater than 10";
+    if ($number > 30){
+        echo "the number is greater than 20";
+
+    }else{
+        echo " number is not above 30";
+    }
+}
+
 ?>

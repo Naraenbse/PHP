@@ -27,7 +27,7 @@ if ($x == 50 XOR $y == 55){ // EXECUTES ONLY IF ONE OF THEM ARE TRUE IF BOTH ARE
     echo "hellowww123";
 
 }
-
+echo "<br>";
 //NOT OPERATOR
 $x = 100;  
 

@@ -62,7 +62,7 @@ if ($number > 10) {
         echo "the number is greater than 20";
 
     }else{
-        echo " number is not above 30";
+        echo " but  not above 30";
     }
 }
 

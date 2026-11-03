@@ -13,3 +13,5 @@ switch ($role) {
         break;
 
 }
+
+?>

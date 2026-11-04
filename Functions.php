@@ -38,4 +38,6 @@ function sum($x,$y) {
  echo  "5+10 =".sum (5,10). "<br>";
  echo "25+654 =".sum(25,654) ."<br>";
  echo "10+23 =".sum(10,23);
+
+ 
 ?>

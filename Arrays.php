@@ -1,6 +1,9 @@
 <?php
 //INDEXED ARRAY: 
 $cars= array("BMW","AUDI","BENZ");
+echo "<pre>"; print_r($cars);
+
+exit;
 var_dump($cars);
 echo "<br><br>";
 

@@ -16,10 +16,8 @@ if (isset($_POST["submit"])) {
 <form method="POST">
 
     <label>Name:</label>
-
-    <input type="text" name="name"
-           placeholder="Enter your name">
-
+    <input type="text" name="name" placeholder="Enter your name">
+    
     <?php
     if (isset($_POST["submit"]) && empty($username)) {
         echo "Enter the name";
